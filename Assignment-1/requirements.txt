@@ -4,6 +4,5 @@ pandas
 nltk
 spacy
 ipykernel
-plotly
 ipywidgets
 wordcloud
