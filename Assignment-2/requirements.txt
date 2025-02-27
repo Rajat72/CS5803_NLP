@@ -1,0 +1,12 @@
+requests
+scikit-learn
+beautifulsoup4
+pandas
+nltk
+spacy
+ipykernel
+ipywidgets
+keras
+tensorflow
+torch
+openpyxl
