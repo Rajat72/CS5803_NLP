@@ -8,5 +8,5 @@ ipykernel
 ipywidgets
 keras
 tensorflow
-torch
 openpyxl
+plotly
